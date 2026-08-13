@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "description": "If you find this paper and repo helpful for your research, please cite it below:",
+      "items": [],
+      "title": "⭐ Citation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Add Best Collection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-03T17:50:56Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Text-to-Image",
+                "stars": 2441
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Create ⏳Recently Focused Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-03T17:50:56Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Text-to-Image",
+                "stars": 2441
+              }
+            }
+          ]
+        }
+      ],
+      "title": "To Do"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2. Quantitative Evaluation Metrics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-03T17:50:56Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Text-to-Image",
+                "stars": 2441
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "3. Datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-03T17:50:56Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Text-to-Image",
+                "stars": 2441
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "4. Project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-03T17:50:56Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Text-to-Image",
+                "stars": 2441
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Survey",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-03T17:50:56Z",
+                    "owner": "Yutong-Zhou-cv",
+                    "repo": "Awesome-Text-to-Image",
+                    "stars": 2441
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2022",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-03T17:50:56Z",
+                    "owner": "Yutong-Zhou-cv",
+                    "repo": "Awesome-Text-to-Image",
+                    "stars": 2441
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2021",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-03T17:50:56Z",
+                    "owner": "Yutong-Zhou-cv",
+                    "repo": "Awesome-Text-to-Image",
+                    "stars": 2441
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2016~2020",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-03T17:50:56Z",
+                    "owner": "Yutong-Zhou-cv",
+                    "repo": "Awesome-Text-to-Image",
+                    "stars": 2441
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Content"
+    },
+    {
+      "description": "If you have any questions or comments, please feel free to contact Yutong ლ(╹◡╹ლ)",
+      "items": [],
+      "title": "Contact Me"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:21.208Z",
+    "original_repository": "Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "original_repository_sha": "f4b37451a3938c18ae677f202690c0ccd132fcd6",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Text-to-Image",
+    "enhanced_repository_description": null,
+    "title": "Awesome 𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓣𝓮𝔁𝓽📝-𝓽𝓸-𝓘𝓶𝓪𝓰𝓮🌇 with stars"
+  }
+}
