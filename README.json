@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "If you find this paper and repo helpful for your research, please cite it below:",
-      "items": [],
-      "title": "⭐ Citation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 303611255,
                 "language": null,
                 "last_commit": "2026-08-13T10:32:32Z",
                 "owner": "Yutong-Zhou-cv",
@@ -41,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 303611255,
                 "language": null,
                 "last_commit": "2026-08-13T10:32:32Z",
                 "owner": "Yutong-Zhou-cv",
@@ -54,7 +51,7 @@
       "title": "To Do"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -68,6 +65,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 303611255,
                 "language": null,
                 "last_commit": "2026-08-13T10:32:32Z",
                 "owner": "Yutong-Zhou-cv",
@@ -89,6 +87,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 303611255,
                 "language": null,
                 "last_commit": "2026-08-13T10:32:32Z",
                 "owner": "Yutong-Zhou-cv",
@@ -110,6 +109,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 303611255,
                 "language": null,
                 "last_commit": "2026-08-13T10:32:32Z",
                 "owner": "Yutong-Zhou-cv",
@@ -136,6 +136,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 303611255,
                     "language": null,
                     "last_commit": "2026-08-13T10:32:32Z",
                     "owner": "Yutong-Zhou-cv",
@@ -157,6 +158,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 303611255,
                     "language": null,
                     "last_commit": "2026-08-13T10:32:32Z",
                     "owner": "Yutong-Zhou-cv",
@@ -178,6 +180,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 303611255,
                     "language": null,
                     "last_commit": "2026-08-13T10:32:32Z",
                     "owner": "Yutong-Zhou-cv",
@@ -199,6 +202,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 303611255,
                     "language": null,
                     "last_commit": "2026-08-13T10:32:32Z",
                     "owner": "Yutong-Zhou-cv",
@@ -212,21 +216,12 @@
         }
       ],
       "title": "Content"
-    },
-    {
-      "description": "If you have any questions or comments, please feel free to contact Yutong ლ(╹◡╹ლ)",
-      "items": [],
-      "title": "Contact Me"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:05:34.823Z",
+    "last_updated": "2026-08-19T12:09:19.159Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "original_repository_id": 303611255,
     "original_repository_sha": "476e6c9a788259e751ea082b53383e52598b75e7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Text-to-Image",
     "enhanced_repository_description": null,
