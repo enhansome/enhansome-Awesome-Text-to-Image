@@ -12,7 +12,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Yutong-Zhou-cv/Awesome-Text-to-Image?style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/Yutong-Zhou-cv/Awesome-Text-to-Image?color=inactive\&style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,673 | 🐛 102 | 📅 2026-08-18
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYutong-Zhou-cv%2Fawesome-Text-to-Image\&count_bg=%23DD4B78\&title_bg=%23555555\&icon=jabber.svg\&icon_color=%23E7E7E7\&title=Hits\(2023.05~\)\&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </p>
