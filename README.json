@@ -153,7 +153,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -175,7 +175,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -197,7 +197,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2016~2020",
+                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -536,7 +536,7 @@
                 "last_commit": "2024-11-13T05:17:23Z",
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4614
+                "stars": 4615
               }
             },
             {
@@ -753,7 +753,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34078
+                "stars": 34079
               }
             },
             {
@@ -783,7 +783,7 @@
                 "last_commit": "2026-07-13T03:53:45Z",
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
-                "stars": 3870
+                "stars": 3869
               }
             },
             {
@@ -1351,7 +1351,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             }
           ]
@@ -1620,7 +1620,7 @@
                 "last_commit": "2026-04-04T07:32:17Z",
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 858
+                "stars": 859
               }
             },
             {
@@ -1665,7 +1665,7 @@
                 "last_commit": "2023-08-15T16:09:04Z",
                 "owner": "Lipurple",
                 "repo": "Grounded-Diffusion",
-                "stars": 184
+                "stars": 185
               }
             },
             {
@@ -1717,7 +1717,7 @@
                 "last_commit": "2024-07-31T01:14:15Z",
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12223
+                "stars": 12224
               }
             },
             {
@@ -2534,7 +2534,7 @@
                 "last_commit": "2025-05-15T03:29:11Z",
                 "owner": "limuloo",
                 "repo": "MIGC",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -2638,7 +2638,7 @@
                 "last_commit": "2025-06-17T16:56:31Z",
                 "owner": "frank-xwang",
                 "repo": "InstanceDiffusion",
-                "stars": 614
+                "stars": 615
               }
             },
             {
@@ -2898,7 +2898,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2973,7 +2973,7 @@
                 "last_commit": "2024-09-17T14:19:55Z",
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -2988,7 +2988,7 @@
                 "last_commit": "2024-08-18T00:21:07Z",
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 715
+                "stars": 716
               }
             },
             {
@@ -3190,7 +3190,7 @@
                 "last_commit": "2025-11-04T11:19:04Z",
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 12970
+                "stars": 12971
               }
             },
             {
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:03.037Z",
+    "last_updated": "2026-08-25T05:56:01.340Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Text-to-Image",
     "original_repository_id": 303611255,
     "original_repository_sha": "476e6c9a788259e751ea082b53383e52598b75e7",
