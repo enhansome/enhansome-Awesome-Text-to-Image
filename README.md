@@ -12,7 +12,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Yutong-Zhou-cv/Awesome-Text-to-Image?style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/Yutong-Zhou-cv/Awesome-Text-to-Image?color=inactive\&style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,836 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYutong-Zhou-cv%2Fawesome-Text-to-Image\&count_bg=%23DD4B78\&title_bg=%23555555\&icon=jabber.svg\&icon_color=%23E7E7E7\&title=Hits\(2023.05~\)\&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </p>
@@ -218,7 +218,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2023"> **2023**  </span>
-  * ⭐⭐(ICCV 2023) **Adding Conditional Control to Text-to-Image Diffusion Models**, Lvmin Zhang et al. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Code](https://github.com/lllyasviel/ControlNet) ⭐ 34,100 | 🐛 460 | 🌐 Python | 📅 2024-02-25]
+  * ⭐⭐(ICCV 2023) **Adding Conditional Control to Text-to-Image Diffusion Models**, Lvmin Zhang et al. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Code](https://github.com/lllyasviel/ControlNet) ⭐ 34,101 | 🐛 460 | 🌐 Python | 📅 2024-02-25]
   * ⭐⭐(arXiv preprint 2023) **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, Chenfei Wu et al. \[[Paper](https://arxiv.org/abs/2303.04671)] \[[Code](https://github.com/microsoft/visual-chatgpt) ⭐ 34,000 | 🐛 261 | 🌐 Python | 📅 2024-01-06]
   * ⭐⭐(Findings of ACL 2023) \[💬 Multi-language-to-Image] **AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities**, Zhongzhi Chen et al.  \[[Paper](https://arxiv.org/abs/2211.06679)] \[[Code-AltDiffusion](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion-m18) ⭐ 3,869 | 🐛 24 | 🌐 Python | 📅 2026-07-13] \[[Code-AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP-m18) ⭐ 3,869 | 🐛 24 | 🌐 Python | 📅 2026-07-13] \[[Hugging Face](https://huggingface.co/BAAI/AltDiffusion-m18)]
   * ⭐(arXiv preprint 2023) **Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**, Anton Razzhigaev et al.  \[[Paper](https://arxiv.org/abs/2310.03502)] \[[Code](https://github.com/ai-forever/Kandinsky-2) ⭐ 2,814 | 🐛 85 | 🌐 Jupyter Notebook | 📅 2024-05-01] \[[Demo](https://fusionbrain.ai/en/editor/)] \[[Demo Video](https://www.youtube.com/watch?v=c7zHPc59cWU)] \[[Hugging Face](https://huggingface.co/kandinsky-community)]
@@ -387,7 +387,7 @@ If you find this paper and repo helpful for your research, please cite it below:
   * (arXiv preprint 2023) ⭐⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**, Yuwei Guo et al. \[[Paper](https://arxiv.org/abs/2307.04725)] \[[Project](https://animatediff.github.io/)] \[[Code](https://github.com/guoyww/animatediff/) ⭐ 12,229 | 🐛 319 | 🌐 Python | 📅 2024-07-31]
   * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. \[[Paper](https://arxiv.org/pdf/2102.12092.pdf)] \[[Code](https://github.com/openai/DALL-E) ⚠️ Archived] \[[Blog](https://openai.com/blog/dall-e/)] \[[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md) ⚠️ Archived] \[[Colab](https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing)]
   * (ICCV 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. \[[Paper](https://arxiv.org/abs/2103.17249)] \[[Code](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,121 | 🐛 64 | 🌐 HTML | 📅 2023-05-30]
-  * (arXiv preprint 2025) **In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**, Zechuan Zhang et al. \[[Paper](https://arxiv.org/abs/2504.20690)] \[[Project](https://river-zhang.github.io/ICEdit-gh-pages/)] \[[Code](https://github.com/River-Zhang/ICEdit) ⭐ 2,102 | 🐛 23 | 🌐 Python | 📅 2025-12-19]
+  * (arXiv preprint 2025) **In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**, Zechuan Zhang et al. \[[Paper](https://arxiv.org/abs/2504.20690)] \[[Project](https://river-zhang.github.io/ICEdit-gh-pages/)] \[[Code](https://github.com/River-Zhang/ICEdit) ⭐ 2,103 | 🐛 23 | 🌐 Python | 📅 2025-12-19]
   * (arXiv preprint 2023) **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**, Yue Ma et al. \[[Paper](https://arxiv.org/abs/2304.01186)] \[[Code](https://github.com/mayuelala/FollowYourPose) ⭐ 1,358 | 🐛 12 | 🌐 Python | 📅 2024-03-20] \[[Hugging Face](https://huggingface.co/spaces/YueMafighting/FollowYourPose)]
   * (CVPR 2022) \[💬Image Segmentation] **Image Segmentation Using Text and Image Prompts**, Timo Lüddecke et al. \[[Paper](https://arxiv.org/abs/2112.10003)] \[[Code](https://github.com/timojl/clipseg) ⭐ 1,338 | 🐛 5 | 🌐 Python | 📅 2024-01-05]
   * (ICCV 2023) \[💬Video Editing] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**, Chenyang Qi et al. \[[Paper](https://arxiv.org/abs/2303.09535)] \[[Code](https://github.com/ChenyangQiQi/FateZero) ⭐ 1,163 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-08-14] \[[Project](https://fate-zero-edit.github.io/)] [Hugging Face](https://huggingface.co/spaces/chenyangqi/FateZero)]
@@ -562,7 +562,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span>
-  * (CVPR 2022) \[💬Object] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)] \[[Project](https://ajayj.com/dreamfields)] \[[Code](https://github.com/google-research/google-research/tree/master/dreamfields) ⭐ 38,642 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
+  * (CVPR 2022) \[💬Object] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)] \[[Project](https://ajayj.com/dreamfields)] \[[Code](https://github.com/google-research/google-research/tree/master/dreamfields) ⭐ 38,643 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
   * (arXiv preprint 2022) \[💬Point Clouds] **Point-E: A System for Generating 3D Point Clouds from Complex Prompts**, Alex Nichol et al.  \[[Paper](https://arxiv.org/abs/2212.08751)] \[[Code](https://github.com/openai/point-e) ⭐ 6,897 | 🐛 80 | 🌐 Python | 📅 2024-07-04]
   * (arXiv preprint 2022) \[💬Human Motion Generation] **Human Motion Diffusion Model**, Guy Tevet et al. \[[Paper](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page/)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
   * (NeurIPS 2023) \[💬Text → 3D] **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, Minghua Liu et al. \[[Paper](https://arxiv.org/abs/2306.16928)] \[[Project](https://one-2-3-45.github.io/)] \[[Code](https://github.com/One-2-3-45/One-2-3-45) ⭐ 1,718 | 🐛 19 | 🌐 Python | 📅 2024-04-20]
@@ -670,4 +670,4 @@ If you have any questions or comments, please feel free to contact [**Yutong**](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
