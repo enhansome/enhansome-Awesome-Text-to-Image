@@ -687,10 +687,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-01T01:23:17Z",
-                "open_issues": 98,
+                "open_issues": 100,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2890,
+                "stars": 2892,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -862,7 +862,7 @@
                 "open_issues": 145,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4615,
+                "stars": 4614,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34101,
+                "stars": 34102,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000,
+                "stars": 33999,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2147,7 +2147,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4466,
                 "topics": [
                   "agi",
                   "gpt",
@@ -2187,7 +2187,7 @@
                 "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14130,
+                "stars": 14131,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2624,7 +2624,7 @@
                 "open_issues": 7,
                 "owner": "Aubrey-ao",
                 "repo": "HumanBehaviorAnimation",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4558,7 +4558,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38649,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4583,7 +4583,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6897,
+                "stars": 6895,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5011,7 +5011,7 @@
                 "open_issues": 117,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 12982,
+                "stars": 12984,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5081,10 +5081,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-03T17:34:14Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "lucidrains",
                 "repo": "make-a-video-pytorch",
-                "stars": 1986,
+                "stars": 1987,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanisms",
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:44.414Z",
+    "last_updated": "2026-08-29T16:41:17.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
