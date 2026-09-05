@@ -1174,7 +1174,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34109,
+                "stars": 34111,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33990,
+                "stars": 33989,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1631,7 +1631,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T07:48:17Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Karine-Huang",
                 "repo": "T2I-CompBench",
                 "stars": 347,
@@ -2334,7 +2334,7 @@
                 "open_issues": 17,
                 "owner": "apple",
                 "repo": "ml-4m",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2745,7 +2745,7 @@
                 "open_issues": 319,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12235,
+                "stars": 12237,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2766,7 +2766,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10832,
+                "stars": 10831,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4558,7 +4558,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4735,7 +4735,7 @@
                 "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "human-motion",
                   "motion-generation",
@@ -5011,7 +5011,7 @@
                 "open_issues": 118,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13000,
+                "stars": 13001,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5039,7 +5039,7 @@
                 "open_issues": 37,
                 "owner": "showlab",
                 "repo": "Tune-A-Video",
-                "stars": 4363,
+                "stars": 4362,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:18:12.519Z",
+    "last_updated": "2026-09-05T15:09:20.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
