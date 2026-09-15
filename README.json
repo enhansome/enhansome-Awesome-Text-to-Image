@@ -690,7 +690,7 @@
                 "open_issues": 105,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2908,
+                "stars": 2909,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34115,
+                "stars": 34117,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1583,7 +1583,7 @@
                 "open_issues": 12,
                 "owner": "djghosh13",
                 "repo": "geneval",
-                "stars": 480,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2143,11 +2143,11 @@
                 "id": 577753426,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-25T06:15:21Z",
+                "last_commit": "2026-09-15T03:52:32Z",
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -2187,7 +2187,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14144,
+                "stars": 14147,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2208,7 +2208,7 @@
                 "open_issues": 91,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9072,
+                "stars": 9071,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2745,7 +2745,7 @@
                 "open_issues": 319,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12243,
+                "stars": 12246,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2808,7 +2808,7 @@
                 "open_issues": 24,
                 "owner": "River-Zhang",
                 "repo": "ICEdit",
-                "stars": 2104,
+                "stars": 2107,
                 "topics": [
                   "diffusion",
                   "diffusion-models",
@@ -4554,11 +4554,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1993,
+                "last_commit": "2026-09-15T14:37:45Z",
+                "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38756,
+                "stars": 38768,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -5011,7 +5011,7 @@
                 "open_issues": 118,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13012,
+                "stars": 13016,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5060,7 +5060,7 @@
                 "open_issues": 51,
                 "owner": "Picsart-AI-Research",
                 "repo": "Text2Video-Zero",
-                "stars": 4244,
+                "stars": 4245,
                 "topics": [
                   "video-editing",
                   "video-generation"
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:03:49.347Z",
+    "last_updated": "2026-09-15T16:54:46.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
