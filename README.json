@@ -690,7 +690,7 @@
                 "open_issues": 105,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2911,
+                "stars": 2913,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34117,
+                "stars": 34114,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2187,7 +2187,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14148,
+                "stars": 14150,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 17,
                 "owner": "apple-aiml-research",
                 "repo": "ml-4m",
-                "stars": 1810,
+                "stars": 1812,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2745,7 +2745,7 @@
                 "open_issues": 319,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12245,
+                "stars": 12247,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2766,7 +2766,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10824,
+                "stars": 10823,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2808,7 +2808,7 @@
                 "open_issues": 24,
                 "owner": "River-Zhang",
                 "repo": "ICEdit",
-                "stars": 2107,
+                "stars": 2106,
                 "topics": [
                   "diffusion",
                   "diffusion-models",
@@ -3211,7 +3211,7 @@
                 "open_issues": 16,
                 "owner": "zqiu24",
                 "repo": "oft",
-                "stars": 300,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4558,7 +4558,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38783,
+                "stars": 38787,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4583,7 +4583,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6894,
+                "stars": 6893,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5011,7 +5011,7 @@
                 "open_issues": 118,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13024,
+                "stars": 13026,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5060,7 +5060,7 @@
                 "open_issues": 51,
                 "owner": "Picsart-AI-Research",
                 "repo": "Text2Video-Zero",
-                "stars": 4245,
+                "stars": 4244,
                 "topics": [
                   "video-editing",
                   "video-generation"
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T16:56:19.827Z",
+    "last_updated": "2026-09-18T16:20:57.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
