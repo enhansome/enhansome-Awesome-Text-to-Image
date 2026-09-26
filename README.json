@@ -1174,7 +1174,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34123,
+                "stars": 34124,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33977,
+                "stars": 33978,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1706,
+                "stars": 1705,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1485,7 +1485,7 @@
                 "open_issues": 35,
                 "owner": "tgxs002",
                 "repo": "HPSv2",
-                "stars": 680,
+                "stars": 679,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1506,7 +1506,7 @@
                 "open_issues": 0,
                 "owner": "omriav",
                 "repo": "blended-latent-diffusion",
-                "stars": 632,
+                "stars": 631,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1634,7 +1634,7 @@
                 "open_issues": 23,
                 "owner": "Karine-Huang",
                 "repo": "T2I-CompBench",
-                "stars": 347,
+                "stars": 346,
                 "topics": [
                   "benchmark",
                   "compositionality",
@@ -1688,7 +1688,7 @@
                 "open_issues": 7,
                 "owner": "showlab",
                 "repo": "BoxDiff",
-                "stars": 276,
+                "stars": 275,
                 "topics": [
                   "diffusion-models",
                   "text-to-image-synthesis"
@@ -2376,7 +2376,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1331,
+                "stars": 1332,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2745,7 +2745,7 @@
                 "open_issues": 318,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12251,
+                "stars": 12252,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2808,7 +2808,7 @@
                 "open_issues": 24,
                 "owner": "River-Zhang",
                 "repo": "ICEdit",
-                "stars": 2103,
+                "stars": 2102,
                 "topics": [
                   "diffusion",
                   "diffusion-models",
@@ -3120,7 +3120,7 @@
                 "open_issues": 37,
                 "owner": "open-mmlab",
                 "repo": "StyleShot",
-                "stars": 474,
+                "stars": 473,
                 "topics": [
                   "controllable-generation",
                   "style-transfer",
@@ -3166,7 +3166,7 @@
                 "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 372,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -3300,7 +3300,7 @@
                 "open_issues": 11,
                 "owner": "haoosz",
                 "repo": "ViCo",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "personalized-generation",
                   "text-to-image-diffusion"
@@ -3372,7 +3372,7 @@
                 "open_issues": 1,
                 "owner": "nupurkmr9",
                 "repo": "syncd",
-                "stars": 156,
+                "stars": 155,
                 "topics": [
                   "customization",
                   "personalization",
@@ -4071,7 +4071,7 @@
                 "open_issues": 11,
                 "owner": "silent-chen",
                 "repo": "layout-guidance",
-                "stars": 267,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4558,7 +4558,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38833,
+                "stars": 38832,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4604,7 +4604,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4104,
+                "stars": 4105,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4686,7 +4686,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -4781,7 +4781,7 @@
                 "open_issues": 0,
                 "owner": "sherwinbahmani",
                 "repo": "4dfy",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4823,7 +4823,7 @@
                 "open_issues": 2,
                 "owner": "buaacyw",
                 "repo": "IT3D-text-to-3D",
-                "stars": 222,
+                "stars": 223,
                 "topics": [
                   "3d",
                   "aaai2024",
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:06:29.919Z",
+    "last_updated": "2026-09-26T16:19:29.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
