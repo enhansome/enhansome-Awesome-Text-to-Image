@@ -21,7 +21,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Text-to-Image",
                 "stars": 2447,
@@ -60,7 +60,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Text-to-Image",
                 "stars": 2447,
@@ -105,7 +105,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Text-to-Image",
                 "stars": 2447,
@@ -144,7 +144,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Text-to-Image",
                 "stars": 2447,
@@ -183,7 +183,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Text-to-Image",
                 "stars": 2447,
@@ -227,7 +227,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "Yutong-Zhou-cv",
                     "repo": "Awesome-Text-to-Image",
                     "stars": 2447,
@@ -266,7 +266,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "Yutong-Zhou-cv",
                     "repo": "Awesome-Text-to-Image",
                     "stars": 2447,
@@ -305,7 +305,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "Yutong-Zhou-cv",
                     "repo": "Awesome-Text-to-Image",
                     "stars": 2447,
@@ -344,7 +344,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "Yutong-Zhou-cv",
                     "repo": "Awesome-Text-to-Image",
                     "stars": 2447,
@@ -690,7 +690,7 @@
                 "open_issues": 108,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2924,
+                "stars": 2927,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34125,
+                "stars": 34124,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33976,
+                "stars": 33977,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1213,7 +1213,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-13T03:53:45Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
                 "stars": 3870,
@@ -1237,7 +1237,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2810,
+                "stars": 2811,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -2187,7 +2187,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14157,
+                "stars": 14158,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2208,7 +2208,7 @@
                 "open_issues": 91,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9080,
+                "stars": 9082,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2271,7 +2271,7 @@
                 "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2555,
+                "stars": 2554,
                 "topics": [
                   "chinese",
                   "image-captioning",
@@ -2766,7 +2766,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10820,
+                "stars": 10819,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2866,7 +2866,7 @@
                 "open_issues": 5,
                 "owner": "timojl",
                 "repo": "clipseg",
-                "stars": 1338,
+                "stars": 1339,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2939,7 +2939,7 @@
                 "open_issues": 26,
                 "owner": "TencentARC",
                 "repo": "MasaCtrl",
-                "stars": 841,
+                "stars": 842,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -3093,7 +3093,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "break-a-scene",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -4256,7 +4256,7 @@
                 "open_issues": 8,
                 "owner": "HuiZhang0812",
                 "repo": "CreatiLayout",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4558,7 +4558,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38839,
+                "stars": 38849,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -5008,7 +5008,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-04T11:19:04Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "zai-org",
                 "repo": "CogVideo",
                 "stars": 13048,
@@ -5178,7 +5178,7 @@
                 "open_issues": 5,
                 "owner": "aim-uofa",
                 "repo": "MovieDreamer",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:39:01.308Z",
+    "last_updated": "2026-09-29T18:03:21.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
@@ -5361,7 +5361,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-13T10:32:32Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Text-to-Image",
       "stars": 2447,
