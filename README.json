@@ -687,10 +687,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 108,
+                "open_issues": 110,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2927,
+                "stars": 2928,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -883,7 +883,7 @@
                 "open_issues": 4,
                 "owner": "PixArt-alpha",
                 "repo": "PixArt-alpha",
-                "stars": 3307,
+                "stars": 3306,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1090,6 +1090,27 @@
             },
             {
               "node_type": "item",
+              "title": "(CVPR 2024) ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations, Maitreya Patel et al. [Paper",
+              "description": "] [Project] [Code] [Hugging Face]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2024] Official PyTorch implementation of \"ECLIPSE: Revisiting the Text-to-Image Prior for Efficient Image Generation\"",
+                "homepage": "https://eclipse-t2i.vercel.app/",
+                "id": 728513859,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-05-01T17:36:16Z",
+                "open_issues": 1,
+                "owner": "eclipse-t2i",
+                "repo": "eclipse-inference",
+                "stars": 66,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:15:20.370Z"
+            },
+            {
+              "node_type": "item",
               "title": "(arXiv preprint 2024) Learning Continuous 3D Words for Text-to-Image Generation, Ta-Ying Cheng et al. [Paper",
               "description": "] [Project] [Code]",
               "children": [],
@@ -1105,27 +1126,6 @@
                 "owner": "ttchengab",
                 "repo": "continuous_3d_words_code",
                 "stars": 66,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            },
-            {
-              "node_type": "item",
-              "title": "(CVPR 2024) ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations, Maitreya Patel et al. [Paper",
-              "description": "] [Project] [Code] [Hugging Face]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2024] Official PyTorch implementation of \"ECLIPSE: Revisiting the Text-to-Image Prior for Efficient Image Generation\"",
-                "homepage": "https://eclipse-t2i.vercel.app/",
-                "id": 728513859,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-05-01T17:36:16Z",
-                "open_issues": 1,
-                "owner": "eclipse-t2i",
-                "repo": "eclipse-inference",
-                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33977,
+                "stars": 33974,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1237,7 +1237,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2811,
+                "stars": 2810,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -1344,7 +1344,7 @@
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1704,
+                "stars": 1703,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1439,7 +1439,7 @@
                 "open_issues": 8,
                 "owner": "yuval-alaluf",
                 "repo": "Attend-and-Excite",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "diffusion-models",
                   "stable-diffusion",
@@ -2147,7 +2147,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4477,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -2205,10 +2205,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-11-21T21:48:14Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9082,
+                "stars": 9081,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 17,
                 "owner": "apple-aiml-research",
                 "repo": "ml-4m",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2355,7 +2355,7 @@
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1704,
+                "stars": 1703,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2596,7 +2596,7 @@
                 "open_issues": 2,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 869,
+                "stars": 872,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2745,7 +2745,7 @@
                 "open_issues": 318,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12257,
+                "stars": 12260,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2787,7 +2787,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4116,
+                "stars": 4117,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2808,7 +2808,7 @@
                 "open_issues": 24,
                 "owner": "River-Zhang",
                 "repo": "ICEdit",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "diffusion",
                   "diffusion-models",
@@ -2887,7 +2887,7 @@
                 "open_issues": 12,
                 "owner": "ChenyangQiQi",
                 "repo": "FateZero",
-                "stars": 1163,
+                "stars": 1162,
                 "topics": [
                   "image-editing",
                   "stable-diffusion",
@@ -2914,7 +2914,7 @@
                 "open_issues": 19,
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": [
                   "3d-generation",
                   "motion-generation",
@@ -4558,7 +4558,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38849,
+                "stars": 38855,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -5008,10 +5008,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-04T11:19:04Z",
-                "open_issues": 119,
+                "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13048,
+                "stars": 13049,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5084,7 +5084,7 @@
                 "open_issues": 7,
                 "owner": "lucidrains",
                 "repo": "make-a-video-pytorch",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanisms",
@@ -5199,7 +5199,7 @@
                 "open_issues": 3,
                 "owner": "HeliosZhao",
                 "repo": "Make-A-Protagonist",
-                "stars": 322,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5352,7 +5352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:03:21.047Z",
+    "last_updated": "2026-09-30T17:58:57.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
