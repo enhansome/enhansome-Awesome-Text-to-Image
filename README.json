@@ -317,7 +317,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2931,
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34121,
+                "stars": 34122,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33974,
+                "stars": 33973,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -964,7 +964,7 @@
               "description": "] [Project] [Code]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 575603626,
@@ -995,7 +995,7 @@
                 "open_issues": 1,
                 "owner": "yu-takagi",
                 "repo": "StableDiffusionReconstruction",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 92,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9080,
+                "stars": 9079,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1975,7 +1975,7 @@
               "description": "] [Project] [Code]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 575603626,
@@ -2226,7 +2226,7 @@
                 "open_issues": 2,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 866,
+                "stars": 865,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2517,7 +2517,7 @@
                 "open_issues": 12,
                 "owner": "ChenyangQiQi",
                 "repo": "FateZero",
-                "stars": 1162,
+                "stars": 1163,
                 "topics": [
                   "image-editing",
                   "stable-diffusion",
@@ -2750,7 +2750,7 @@
                 "open_issues": 37,
                 "owner": "open-mmlab",
                 "repo": "StyleShot",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "controllable-generation",
                   "style-transfer",
@@ -4188,7 +4188,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38862,
+                "stars": 38869,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4641,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13052,
+                "stars": 13055,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4982,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:47.549Z",
+    "last_updated": "2026-10-03T16:13:15.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
