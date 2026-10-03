@@ -5,376 +5,6 @@
       "items": [
         {
           "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Add Best Collection",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                "homepage": null,
-                "id": 303611255,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 1,
-                "owner": "Yutong-Zhou-cv",
-                "repo": "Awesome-Text-to-Image",
-                "stars": 2447,
-                "topics": [
-                  "awseome-list",
-                  "generative-adversarial-network",
-                  "image-generation",
-                  "image-manipulation",
-                  "image-synthesis",
-                  "multimodal",
-                  "multimodal-deep-learning",
-                  "survey",
-                  "text-to-face",
-                  "text-to-image"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Create ⏳Recently Focused Papers",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                "homepage": null,
-                "id": 303611255,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 1,
-                "owner": "Yutong-Zhou-cv",
-                "repo": "Awesome-Text-to-Image",
-                "stars": 2447,
-                "topics": [
-                  "awseome-list",
-                  "generative-adversarial-network",
-                  "image-generation",
-                  "image-manipulation",
-                  "image-synthesis",
-                  "multimodal",
-                  "multimodal-deep-learning",
-                  "survey",
-                  "text-to-face",
-                  "text-to-image"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            }
-          ]
-        }
-      ],
-      "title": "To Do"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "2. Quantitative Evaluation Metrics",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                "homepage": null,
-                "id": 303611255,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 1,
-                "owner": "Yutong-Zhou-cv",
-                "repo": "Awesome-Text-to-Image",
-                "stars": 2447,
-                "topics": [
-                  "awseome-list",
-                  "generative-adversarial-network",
-                  "image-generation",
-                  "image-manipulation",
-                  "image-synthesis",
-                  "multimodal",
-                  "multimodal-deep-learning",
-                  "survey",
-                  "text-to-face",
-                  "text-to-image"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "3. Datasets",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                "homepage": null,
-                "id": 303611255,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 1,
-                "owner": "Yutong-Zhou-cv",
-                "repo": "Awesome-Text-to-Image",
-                "stars": 2447,
-                "topics": [
-                  "awseome-list",
-                  "generative-adversarial-network",
-                  "image-generation",
-                  "image-manipulation",
-                  "image-synthesis",
-                  "multimodal",
-                  "multimodal-deep-learning",
-                  "survey",
-                  "text-to-face",
-                  "text-to-image"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "4. Project",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                "homepage": null,
-                "id": 303611255,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-13T10:32:32Z",
-                "open_issues": 1,
-                "owner": "Yutong-Zhou-cv",
-                "repo": "Awesome-Text-to-Image",
-                "stars": 2447,
-                "topics": [
-                  "awseome-list",
-                  "generative-adversarial-network",
-                  "image-generation",
-                  "image-manipulation",
-                  "image-synthesis",
-                  "multimodal",
-                  "multimodal-deep-learning",
-                  "survey",
-                  "text-to-face",
-                  "text-to-image"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Survey",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                    "homepage": null,
-                    "id": 303611255,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 1,
-                    "owner": "Yutong-Zhou-cv",
-                    "repo": "Awesome-Text-to-Image",
-                    "stars": 2447,
-                    "topics": [
-                      "awseome-list",
-                      "generative-adversarial-network",
-                      "image-generation",
-                      "image-manipulation",
-                      "image-synthesis",
-                      "multimodal",
-                      "multimodal-deep-learning",
-                      "survey",
-                      "text-to-face",
-                      "text-to-image"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T22:15:20.370Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                    "homepage": null,
-                    "id": 303611255,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 1,
-                    "owner": "Yutong-Zhou-cv",
-                    "repo": "Awesome-Text-to-Image",
-                    "stars": 2447,
-                    "topics": [
-                      "awseome-list",
-                      "generative-adversarial-network",
-                      "image-generation",
-                      "image-manipulation",
-                      "image-synthesis",
-                      "multimodal",
-                      "multimodal-deep-learning",
-                      "survey",
-                      "text-to-face",
-                      "text-to-image"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T22:15:20.370Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                    "homepage": null,
-                    "id": 303611255,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 1,
-                    "owner": "Yutong-Zhou-cv",
-                    "repo": "Awesome-Text-to-Image",
-                    "stars": 2447,
-                    "topics": [
-                      "awseome-list",
-                      "generative-adversarial-network",
-                      "image-generation",
-                      "image-manipulation",
-                      "image-synthesis",
-                      "multimodal",
-                      "multimodal-deep-learning",
-                      "survey",
-                      "text-to-face",
-                      "text-to-image"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T22:15:20.370Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-                    "homepage": null,
-                    "id": 303611255,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T10:32:32Z",
-                    "open_issues": 1,
-                    "owner": "Yutong-Zhou-cv",
-                    "repo": "Awesome-Text-to-Image",
-                    "stars": 2447,
-                    "topics": [
-                      "awseome-list",
-                      "generative-adversarial-network",
-                      "image-generation",
-                      "image-manipulation",
-                      "image-synthesis",
-                      "multimodal",
-                      "multimodal-deep-learning",
-                      "survey",
-                      "text-to-face",
-                      "text-to-image"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T22:15:20.370Z"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "title": "Content"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "group",
           "title": "Text to Face👨🏻🧒👧🏼🧓🏽",
           "description": null,
           "children": [
@@ -434,7 +64,7 @@
             {
               "node_type": "item",
               "title": "(BMVC 2022) clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP, Justin N. M. Pinkney et al. [Paper",
-              "description": "] [Code]",
+              "description": "justinpinkney/clip2latent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +106,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) Text-Free Learning of a Natural Language Interface for Pretrained Face Generators, Xiaodan Du et al. [Paper",
-              "description": "] [Code]",
+              "description": "duxiaodan/Fast_text2StyleGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,7 +132,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis, Zhiheng Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "zhihengli-UR/StyleT2I",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,7 +160,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2021) Multi-caption Text-to-Face Synthesis: Dataset and Algorithm, Jianxin Sun et al. [Paper",
-              "description": "] [Code]",
+              "description": "cripac-sjx/SEA-T2F",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -551,7 +181,7 @@
             {
               "node_type": "item",
               "title": "(ICML 2024) Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization, Jinlu Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "Aria-Zhangjl/E3-FaceNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +223,7 @@
             {
               "node_type": "item",
               "title": "(Pattern Recognition 2023) Where you edit is what you get: Text-guided image editing with region-based attention, Changming Xiao et al. [Paper",
-              "description": "] [Code]",
+              "description": "Big-Brother-Pikachu/Where2edit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +249,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) StyleT2F: Generating Human Faces from Textual Description Using StyleGAN2, Mohamed Shawky Sabae et al. [Paper",
-              "description": "] [Code]",
+              "description": "DarkGeekMS/Retratista",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +279,7 @@
             {
               "node_type": "item",
               "title": "(IJACSA 2023) Mukh-Oboyob: Stable Diffusion and BanglaBERT enhanced Bangla Text-to-Face Synthesis, Aloke Kumar Saha et al. [Paper",
-              "description": "] [Code]",
+              "description": "Codernob/Mukh-Oboyob",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +320,7 @@
                 "open_issues": 110,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2930,
+                "stars": 2931,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -698,7 +328,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2024) [💬 Safety] SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models, Xinfeng Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "LetterLiGo/SafeGen_CCS2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -751,7 +381,7 @@
             {
               "node_type": "item",
               "title": "(ICCV 2023) [💬 Safety] Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis, Lukas Struppek et al. [Paper",
-              "description": "] [Code]",
+              "description": "LukasStruppek/Rickrolling-the-Artist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +409,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬 Textual Inversion] Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation, Anton Voronov et al. [Paper",
-              "description": "] [Code]",
+              "description": "yandex-research/DVAR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -800,7 +430,7 @@
             {
               "node_type": "item",
               "title": "(ICLR 2024) [💬 Unauthorized Data] DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models, Zhenting Wang et al. [Paper",
-              "description": "] [Code]",
+              "description": "ZhentingWang/DIAGNOSIS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -821,7 +451,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2024) [💬 Gender Bias Alignment] PopAlign: Population-Level Alignment for Fair Text-to-Image Generation, Shufan Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "jacklishufan/PopAlignSDXL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1042,7 +672,7 @@
             {
               "node_type": "item",
               "title": "⭐(arXiv preprint 2024) RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models, Xinchen Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "YangLing0818/RealCompo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1161,7 +791,7 @@
             {
               "node_type": "item",
               "title": "⭐⭐(ICCV 2023) Adding Conditional Control to Text-to-Image Diffusion Models, Lvmin Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "lllyasviel/ControlNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1182,7 +812,7 @@
             {
               "node_type": "item",
               "title": "⭐⭐(arXiv preprint 2023) Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models, Chenfei Wu et al. [Paper",
-              "description": "] [Code]",
+              "description": "chenfei-wu/TaskMatrix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1213,7 +843,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-13T03:53:45Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
                 "stars": 3870,
@@ -1305,7 +935,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Human Preferences] ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, Jiazheng Xu et al. [Paper",
-              "description": "] [Code]",
+              "description": "zai-org/ImageReward",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬 Evaluation] Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis, Xiaoshi Wu et al. [Paper",
-              "description": "] [Code]",
+              "description": "tgxs002/HPSv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1549,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "⭐⭐(arXiv preprint 2023) Universal Guidance for Diffusion Models, Arpit Bansal et al. [Paper",
-              "description": "] [Code]",
+              "description": "arpitbansal297/Universal-Guided-Diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1570,7 +1200,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Evaluation] GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment, Dhruba Ghosh et al. [Paper",
-              "description": "] [Code]",
+              "description": "djghosh13/geneval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1675,7 +1305,7 @@
             {
               "node_type": "item",
               "title": "(ICCV 2023) BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion, Jinheng Xie et al. [Paper",
-              "description": "] [Code]",
+              "description": "showlab/BoxDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1726,7 +1356,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2023) GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis, Ming Tao et al. [Paper",
-              "description": "] [Code]",
+              "description": "tobran/GALIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1454,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Evaluation] LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation, Yujie Lu et al. [Paper",
-              "description": "] [Code]",
+              "description": "YujieLu10/LLMScore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2009,7 +1639,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) Late-Constraint Diffusion Guidance for Controllable Image Synthesis, Chang Liu et al. [Paper",
-              "description": "] [Code]",
+              "description": "AlonzoLeeeooo/LCDG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2079,7 +1709,7 @@
             {
               "node_type": "item",
               "title": "(TOMM 2023) LFR-GAN: Local Feature Refinement based Generative Adversarial Network for Text-to-Image Generation, Zijun Deng et al. [Paper",
-              "description": "] [Code]",
+              "description": "PKU-ICST-MIPL/LFR-GAN_TOMM2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2100,7 +1730,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) Attribute-Centric Compositional Text-to-Image Generation, Yuren Cong et al. [Paper",
-              "description": "] [Project]",
+              "description": "yrcong/ACTIG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2187,7 +1817,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14162,
+                "stars": 14163,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2208,7 +1838,7 @@
                 "open_issues": 92,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9079,
+                "stars": 9080,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2237,7 +1867,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2022) NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, Chenfei Wu et al. [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/NUWA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2291,7 +1921,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2024) Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers, Peng Gao et al. [Paper",
-              "description": "] [Code]",
+              "description": "Alpha-VLLM/Lumina-T2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2413,7 +2043,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) TextIR: A Simple Framework for Text-based Editable Image Restoration, Yunpeng Bai et al. [Paper",
-              "description": "] [Code]",
+              "description": "haha-lisa/RDM-Region-Aware-Diffusion-Model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2434,7 +2064,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation, Ye Zhu et al. [Paper",
-              "description": "] [Code]",
+              "description": "L-YeZhu/CDCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2460,7 +2090,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis, Wan-Cyuan Fan et al. [Paper",
-              "description": "] [Code]",
+              "description": "chrisfan-wc/Frido",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2489,7 +2119,7 @@
             {
               "node_type": "item",
               "title": "(ICLR 2024) Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing, Ling Yang et al. [Paper",
-              "description": "] [Code]",
+              "description": "YangLing0818/ContextDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2611,7 +2241,7 @@
             {
               "node_type": "item",
               "title": "(SIGGRAPH Asia 2022) [💬Text+Speech → Gesture] Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings, Tenglong Ao et al. [Paper",
-              "description": "] [Code]",
+              "description": "Aubrey-ao/HumanBehaviorAnimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2632,7 +2262,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Semantic segmentation] CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation, Yuqi Lin et al. [Paper",
-              "description": "] [Code]",
+              "description": "linyq2117/CLIP-ES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2677,7 +2307,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Image Super-Resolution] Image Super-Resolution with Text Prompt Diffusion, Zheng Chen et al. [Paper",
-              "description": "] [Code]",
+              "description": "zhengchen1999/PromptSR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2745,7 +2375,7 @@
                 "open_issues": 318,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12261,
+                "stars": 12262,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2774,7 +2404,7 @@
             {
               "node_type": "item",
               "title": "(ICCV 2021) StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery, Or Patashnik et al. [Paper",
-              "description": "] [Code]",
+              "description": "orpatashnik/StyleCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2853,7 +2483,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Image Segmentation] Image Segmentation Using Text and Image Prompts, Timo Lüddecke et al. [Paper",
-              "description": "] [Code]",
+              "description": "timojl/clipseg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3008,7 +2638,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Hairstyle Transfer] HairCLIP: Design Your Hair by Text and Reference Image, Tianyi Wei et al. [Paper",
-              "description": "] [Code]",
+              "description": "wtybest/HairCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3059,7 +2689,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS 2021) Instance-Conditioned GAN, Arantxa Casanova et al. [Paper",
-              "description": "] [Code]",
+              "description": "facebookresearch/ic_gan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3107,7 +2737,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2024) [💬Style Transfer] StyleShot: A Snapshot on Any Style, Junyao Gao et al. [Paper",
-              "description": "] [Project]",
+              "description": "open-mmlab/StyleShot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3174,7 +2804,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Style Transfer] CLIPstyler: Image Style Transfer with a Single Text Condition, Gihyun Kwon et al. [Paper",
-              "description": "] [Code]",
+              "description": "cyclomon/CLIPstyler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3287,7 +2917,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) ViCo: Plug-and-play Visual Condition for Personalized Text-to-image Generation, Shaozhe Hao et al. [Paper",
-              "description": "] [Code]",
+              "description": "haoosz/ViCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3338,7 +2968,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Image Editing] Region-Aware Diffusion for Zero-shot Text-driven Image Editing, Nisha Huang et al. [Paper",
-              "description": "] [Code]",
+              "description": "haha-lisa/RDM-Region-Aware-Diffusion-Model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3385,7 +3015,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2020) ManiGAN: Text-Guided Image Manipulation, Bowen Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "mrlibw/ManiGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3427,7 +3057,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Image Stylization] DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization, Nisha Huang et al. [Paper",
-              "description": "] [Code]",
+              "description": "haha-lisa/Diffstyler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3469,7 +3099,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS 2018) Text-adaptive generative adversarial networks: Manipulating images with natural language, Seonghyeon Nam et al. [Paper",
-              "description": "] [Code]",
+              "description": "woozzu/tagan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3499,7 +3129,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2020) Text-Guided Neural Image Inpainting, Lisai Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "idealwhite/tdanet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3527,7 +3157,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2022) [💬Monocular Depth Estimation] Can Language Understand Depth?, Wangbo Zhao et al. [Paper",
-              "description": "] [Code]",
+              "description": "Adonis-galaxy/DepthCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3596,7 +3226,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Fashion Image Editing] FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion, Martin Pernuš et al. [Paper",
-              "description": "] [Code]",
+              "description": "MartinPernus/FICE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3617,7 +3247,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2022) [💬Digital Art Synthesis] Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion, Huang Nisha et al. [Paper",
-              "description": "] [Code]",
+              "description": "haha-lisa/MGAD-multimodal-guided-artwork-diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3638,7 +3268,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM PIES-ME 2022) [💬3D Semantic Style Transfer] Language-guided Semantic Style Transfer of 3D Indoor Scenes, Bu Jin et al. [Paper",
-              "description": "] [Code]",
+              "description": "AIR-DISCOVER/LASST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3680,7 +3310,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2022) Towards Counterfactual Image Manipulation via CLIP, Yingchen Yu et al. [Paper",
-              "description": "] [Code]",
+              "description": "yingchen001/CF-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3706,7 +3336,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2022) [💬Person Re-identification] Learning Granularity-Unified Representations for Text-to-Image Person Re-identification, Zhiyin Shao et al. [Paper",
-              "description": "] [Code]",
+              "description": "ZhiyinShao-H/LGUR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3727,7 +3357,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS 2022) One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations, Yiming Zhu et al. [Paper",
-              "description": "] [Code]",
+              "description": "KumapowerLIU/FFCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3769,7 +3399,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model, Zipeng Xu et al. [Paper",
-              "description": "] [Code]",
+              "description": "zipengxuc/PPE-Pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3790,7 +3420,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2022) [💬Style Transfer] Language-Driven Artistic Style Transfer, Tsu-Jui Fu et al. [Paper",
-              "description": "] [Code]",
+              "description": "tsujuifu/pytorch_ldast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3849,7 +3479,7 @@
             {
               "node_type": "item",
               "title": "(AAAI 2023) DE-Net: Dynamic Text-guided Image Editing Adversarial Networks, Ming Tao et al. [Paper",
-              "description": "] [Code]",
+              "description": "tobran/DE-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3870,7 +3500,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Face Animation] Language-Guided Face Animation by Recurrent StyleGAN-based Generator, Tiankai Hang et al. [Paper",
-              "description": "] [Code]",
+              "description": "TiankaiHang/language-guided-animation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3896,7 +3526,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Video Segmentation] Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation, Wangbo Zhao et al. [Paper",
-              "description": "] [Code]",
+              "description": "wangbo-zhao/2022CVPR-MMMMTBVS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3917,7 +3547,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Fashion Design] ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design, Xujie Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "Harvey594/ARMANI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3959,7 +3589,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2022) [💬Animating Human Meshes] CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes, Kim Youwang et al. [Paper",
-              "description": "] [Code]",
+              "description": "Youwang-Kim/CLIP-Actor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3980,7 +3610,7 @@
             {
               "node_type": "item",
               "title": "(ICCVW 2021) CIGLI: Conditional Image Generation from Language & Image, Xiaopeng Lu et al. [Paper",
-              "description": "] [Code]",
+              "description": "vincentlux/CIGLI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4037,7 +3667,7 @@
             {
               "node_type": "item",
               "title": "(ICCV 2023) Dense Text-to-Image Generation with Attention Modulation, Yunji Kim et al. [Paper",
-              "description": "] [Code]",
+              "description": "naver-ai/DenseDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4079,7 +3709,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2024) Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis, Marianna Ohanyan et al. [Paper",
-              "description": "] [Code]",
+              "description": "Picsart-AI-Research/Zero-Painter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4201,7 +3831,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2023) LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation, Guangcong Zheng et al. [Paper",
-              "description": "] [Code]",
+              "description": "ZGCTroy/LayoutDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4222,7 +3852,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2023) Freestyle Layout-to-Image Synthesis, Han Xue et al. [Paper",
-              "description": "] [Code]",
+              "description": "essunny310/FreestyleNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4264,7 +3894,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2021) Context-Aware Layout to Image Generation with Enhanced Object Appearance, Sen He et al. [Paper",
-              "description": "] [Code]",
+              "description": "wtliao/layout2img",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4285,7 +3915,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) Modeling Image Composition for Complex Scene Generation, Zuopeng Yang et al. [Paper",
-              "description": "] [Code]",
+              "description": "JohnDreamer/TwFA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4313,7 +3943,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2020) Controllable image synthesis via SegVAE, Yen-Chi Cheng et al. [Paper",
-              "description": "] [Code]",
+              "description": "yccyenchicheng/SegVAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4394,7 +4024,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2018) Image Generation from Scene Graphs, Justin Johnson et al. [Paper",
-              "description": "] [Code]",
+              "description": "google/sg2im",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4422,7 +4052,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2021) [💬Dataset] FooDI-ML: a large multi-language dataset of food, drinks and groceries images and descriptions, David Amat Olóndriz et al. [Paper",
-              "description": "] [Code]",
+              "description": "Glovo/foodi-ml-dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4446,7 +4076,7 @@
             {
               "node_type": "item",
               "title": "(Neurocomputing-2022) TIPCB: A simple but effective part-based convolutional baseline for text-based person search, Yuhao Chen et al. [Paper",
-              "description": "] [Code]",
+              "description": "OrangeYHChen/TIPCB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4488,7 +4118,7 @@
             {
               "node_type": "item",
               "title": "(ECIR 2022) Extending CLIP for Category-to-image Retrieval in E-commerce, Mariya Hendriksen et al. [Paper",
-              "description": "] [Code]",
+              "description": "mariyahendriksen/ecir2022_category_to_image_retrieval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4514,7 +4144,7 @@
             {
               "node_type": "item",
               "title": "(ECIR 2023) Scene-Centric vs. Object-Centric Image-Text Cross-Modal Retrieval: A Reproducibility Study, Mariya Hendriksen et al. [Paper",
-              "description": "] [Code]",
+              "description": "mariyahendriksen/ecir23-object-centric-vs-scene-centric-CMR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4558,7 +4188,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38861,
+                "stars": 38862,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4570,7 +4200,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Point Clouds] Point-E: A System for Generating 3D Point Clouds from Complex Prompts, Alex Nichol et al. [Paper",
-              "description": "] [Code]",
+              "description": "openai/point-e",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4747,7 +4377,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Shape] CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, Aditya Sanghi et al. [Paper",
-              "description": "] [Code]",
+              "description": "AutodeskAILab/Clip-Forge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4810,7 +4440,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) [💬Text → 3D] IT3D: Improved Text-to-3D Generation with Explicit View Synthesis, Yiwen Chen et al. [Paper",
-              "description": "] [Code]",
+              "description": "buaacyw/IT3D-text-to-3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4835,7 +4465,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Text → Shape] Diffusion-SDF: Text-to-Shape via Voxelized Diffusion, Muheng Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "ttlmh/Diffusion-SDF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4886,7 +4516,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2024) [💬Text → 3D] PlacidDreamer: Advancing Harmony in Text-to-3D Generation, Shuo Huang et al. [Paper",
-              "description": "] [Code]",
+              "description": "HansenHuang0823/PlacidDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4928,7 +4558,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬3D Shape] Towards Implicit Text-Guided 3D Shape Generation, Zhengzhe Liu et al. [Paper",
-              "description": "] [Code]",
+              "description": "liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4949,7 +4579,7 @@
             {
               "node_type": "item",
               "title": "(SIGGRAPH Asia 2023 & TOG) [💬Text → 3D] EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation, Zhengzhe Liu et al. [Paper",
-              "description": "] [Code]",
+              "description": "liuzhengzhe/EXIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4998,7 +4628,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, Wenyi Hong et al. [Paper",
-              "description": "] [Code]",
+              "description": "zai-org/CogVideo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5011,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13051,
+                "stars": 13052,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5119,7 +4749,7 @@
             {
               "node_type": "item",
               "title": "(ICLR 2024) ControlVideo: Training-free Controllable Text-to-Video Generation, Yabo Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "YBYBZhang/ControlVideo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5144,7 +4774,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2022) [💬Story Continuation] StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, Adyasha Maharana et al. [Paper",
-              "description": "] [Code]",
+              "description": "adymaharana/storydalle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5232,7 +4862,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2019) [💬Story → Video] StoryGAN: A Sequential Conditional GAN for Story Visualization, Yitong Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "yitong91/StoryGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5285,7 +4915,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS 2023 Datasets and Benchmarks) FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation, Yuanxin Liu et al. [Paper",
-              "description": "] [Project]",
+              "description": "llyx97/FETV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5306,7 +4936,7 @@
             {
               "node_type": "item",
               "title": "(IJCAI 2019) Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis, Yogesh Balaji et al. [Paper",
-              "description": "] [Code]",
+              "description": "minrq/CGAN_Text2Video",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5327,7 +4957,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) [💬Story → Video] Word-Level Fine-Grained Story Visualization, Bowen Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "mrlibw/Word-Level-Story-Visualization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5352,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:50:31.461Z",
+    "last_updated": "2026-10-03T04:26:47.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
