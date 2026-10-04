@@ -320,7 +320,7 @@
                 "open_issues": 111,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2931,
+                "stars": 2933,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33973,
+                "stars": 33972,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -846,7 +846,7 @@
                 "open_issues": 25,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
-                "stars": 3870,
+                "stars": 3869,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 12,
                 "owner": "djghosh13",
                 "repo": "geneval",
-                "stars": 484,
+                "stars": 485,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1594,7 +1594,7 @@
                 "id": 644758675,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2023-12-21T13:26:55Z",
+                "last_commit": "2026-10-04T11:32:26Z",
                 "open_issues": 2,
                 "owner": "sungnyun",
                 "repo": "diffblender",
@@ -1777,7 +1777,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1817,7 +1817,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14163,
+                "stars": 14162,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 92,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9079,
+                "stars": 9076,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2154,7 +2154,7 @@
                 "id": 644758675,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2023-12-21T13:26:55Z",
+                "last_commit": "2026-10-04T11:32:26Z",
                 "open_issues": 2,
                 "owner": "sungnyun",
                 "repo": "diffblender",
@@ -2375,7 +2375,7 @@
                 "open_issues": 318,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12262,
+                "stars": 12263,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2702,7 +2702,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "ic_gan",
-                "stars": 535,
+                "stars": 534,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2723,7 +2723,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "break-a-scene",
-                "stars": 526,
+                "stars": 525,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -3651,7 +3651,7 @@
                 "open_issues": 14,
                 "owner": "limuloo",
                 "repo": "MIGC",
-                "stars": 612,
+                "stars": 611,
                 "topics": [
                   "aigc",
                   "computer-vision",
@@ -4185,10 +4185,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T21:03:49Z",
-                "open_issues": 1996,
+                "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38869,
+                "stars": 38871,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4234,7 +4234,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4109,
+                "stars": 4110,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4641,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13055,
+                "stars": 13056,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4982,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:13:15.926Z",
+    "last_updated": "2026-10-04T16:50:10.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
