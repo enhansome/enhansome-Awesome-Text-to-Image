@@ -492,7 +492,7 @@
                 "open_issues": 145,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4605,
+                "stars": 4606,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34127,
+                "stars": 34129,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33965,
+                "stars": 33962,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -898,7 +898,7 @@
                 "open_issues": 78,
                 "owner": "gligen",
                 "repo": "GLIGEN",
-                "stars": 2225,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1817,7 +1817,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14164,
+                "stars": 14165,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2226,7 +2226,7 @@
                 "open_issues": 2,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 864,
+                "stars": 868,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2396,7 +2396,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10818,
+                "stars": 10819,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4037,7 +4037,7 @@
                 "open_issues": 14,
                 "owner": "google",
                 "repo": "sg2im",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4184,11 +4184,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:54:26Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38880,
+                "stars": 38883,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4213,7 +4213,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6894,
+                "stars": 6895,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4234,7 +4234,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4115,
+                "stars": 4116,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4550,7 +4550,7 @@
                 "open_issues": 1,
                 "owner": "zkf1997",
                 "repo": "COINS",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4641,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13065,
+                "stars": 13067,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4982,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T18:54:39.784Z",
+    "last_updated": "2026-10-08T18:49:09.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
