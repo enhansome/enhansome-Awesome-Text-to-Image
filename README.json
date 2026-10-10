@@ -320,7 +320,7 @@
                 "open_issues": 112,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2935,
+                "stars": 2937,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -492,7 +492,7 @@
                 "open_issues": 145,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4605,
+                "stars": 4604,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33958,
+                "stars": 33956,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -867,7 +867,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -1264,7 +1264,7 @@
                 "open_issues": 23,
                 "owner": "Karine-Huang",
                 "repo": "T2I-CompBench",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "benchmark",
                   "compositionality",
@@ -1369,7 +1369,7 @@
                 "open_issues": 19,
                 "owner": "tobran",
                 "repo": "GALIP",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "pytorch",
                   "text-to-image"
@@ -1393,7 +1393,7 @@
                 "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "image-to-text",
                   "large-language-models",
@@ -2375,7 +2375,7 @@
                 "open_issues": 319,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12276,
+                "stars": 12275,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10819,
+                "stars": 10816,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4184,11 +4184,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:22:43Z",
+                "last_commit": "2026-10-10T14:34:09Z",
                 "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38885,
+                "stars": 38886,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4316,7 +4316,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 779,
+                "stars": 780,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -4515,27 +4515,6 @@
             },
             {
               "node_type": "item",
-              "title": "(ACMMM 2024) [💬Text → 3D] PlacidDreamer: Advancing Harmony in Text-to-3D Generation, Shuo Huang et al. [Paper",
-              "description": "HansenHuang0823/PlacidDreamer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official implementation of ACM Multimedia 2024 paper \"PlacidDreamer: Advancing Harmony in Text-to-3D Generation\".",
-                "homepage": null,
-                "id": 830520136,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-07-29T00:51:43Z",
-                "open_issues": 3,
-                "owner": "HansenHuang0823",
-                "repo": "PlacidDreamer",
-                "stars": 107,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:15:20.370Z"
-            },
-            {
-              "node_type": "item",
               "title": "(ECCV 2022) [💬Virtual Humans] Compositional Human-Scene Interaction Synthesis with Semantic Control, Kaifeng Zhao et al. [Paper",
               "description": "] [Project] [Code]",
               "children": [],
@@ -4550,6 +4529,27 @@
                 "open_issues": 1,
                 "owner": "zkf1997",
                 "repo": "COINS",
+                "stars": 108,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:15:20.370Z"
+            },
+            {
+              "node_type": "item",
+              "title": "(ACMMM 2024) [💬Text → 3D] PlacidDreamer: Advancing Harmony in Text-to-3D Generation, Shuo Huang et al. [Paper",
+              "description": "HansenHuang0823/PlacidDreamer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of ACM Multimedia 2024 paper \"PlacidDreamer: Advancing Harmony in Text-to-3D Generation\".",
+                "homepage": null,
+                "id": 830520136,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-07-29T00:51:43Z",
+                "open_issues": 3,
+                "owner": "HansenHuang0823",
+                "repo": "PlacidDreamer",
                 "stars": 107,
                 "topics": []
               },
@@ -4641,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13066,
+                "stars": 13065,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4669,7 +4669,7 @@
                 "open_issues": 37,
                 "owner": "showlab",
                 "repo": "Tune-A-Video",
-                "stars": 4364,
+                "stars": 4365,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4982,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:19:40.021Z",
+    "last_updated": "2026-10-10T17:19:04.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
