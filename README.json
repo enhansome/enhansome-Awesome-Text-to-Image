@@ -320,7 +320,7 @@
                 "open_issues": 112,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2937,
+                "stars": 2939,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -492,7 +492,7 @@
                 "open_issues": 145,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4604,
+                "stars": 4603,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34131,
+                "stars": 34129,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33956,
+                "stars": 33955,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -867,7 +867,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2812,
+                "stars": 2813,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -948,7 +948,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1705,
+                "stars": 1706,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1016,7 +1016,7 @@
                 "open_issues": 1,
                 "owner": "lukasHoel",
                 "repo": "text2room",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": [
                   "3d-generation",
                   "diffusion-models",
@@ -2226,7 +2226,7 @@
                 "open_issues": 2,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 869,
+                "stars": 870,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2375,7 +2375,7 @@
                 "open_issues": 319,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12275,
+                "stars": 12273,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2620,7 +2620,7 @@
                 "open_issues": 0,
                 "owner": "FrozenBurning",
                 "repo": "Text2Light",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "3d-generation",
                   "hdr",
@@ -4185,10 +4185,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T14:34:09Z",
-                "open_issues": 1998,
+                "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38886,
+                "stars": 38897,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4234,7 +4234,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4114,
+                "stars": 4115,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4341,7 +4341,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -4641,7 +4641,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13065,
+                "stars": 13066,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4669,7 +4669,7 @@
                 "open_issues": 37,
                 "owner": "showlab",
                 "repo": "Tune-A-Video",
-                "stars": 4365,
+                "stars": 4364,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4982,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:19:04.082Z",
+    "last_updated": "2026-10-11T17:40:13.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
@@ -4994,7 +4994,7 @@
       "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Text-to-Image",
-      "stars": 2446,
+      "stars": 2448,
       "topics": [
         "awseome-list",
         "generative-adversarial-network",
