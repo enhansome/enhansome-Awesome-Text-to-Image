@@ -317,7 +317,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 120,
+                "open_issues": 122,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2964,
@@ -513,7 +513,7 @@
                 "open_issues": 4,
                 "owner": "PixArt-alpha",
                 "repo": "PixArt-alpha",
-                "stars": 3314,
+                "stars": 3315,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34144,
+                "stars": 34149,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33918,
+                "stars": 33917,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -846,7 +846,7 @@
                 "open_issues": 25,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
-                "stars": 3868,
+                "stars": 3867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -948,7 +948,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1708,
+                "stars": 1709,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -995,7 +995,7 @@
                 "open_issues": 1,
                 "owner": "yu-takagi",
                 "repo": "StableDiffusionReconstruction",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 1,
                 "owner": "lukasHoel",
                 "repo": "text2room",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "3d-generation",
                   "diffusion-models",
@@ -1264,7 +1264,7 @@
                 "open_issues": 23,
                 "owner": "Karine-Huang",
                 "repo": "T2I-CompBench",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "benchmark",
                   "compositionality",
@@ -1817,7 +1817,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14184,
+                "stars": 14185,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 91,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9083,
+                "stars": 9085,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2226,7 +2226,7 @@
                 "open_issues": 3,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12282,
+                "stars": 12285,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2723,7 +2723,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "break-a-scene",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -3356,6 +3356,40 @@
             },
             {
               "node_type": "item",
+              "title": "(SIGGRAPH 2025) Cora: Correspondence-aware Image Editing Using Few-Step Diffusion, Amir Alimohammadi et al. [Paper",
+              "description": "] [Project] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "✨ PyTorch implementation of \"Cora: Correspondence-aware Image Editing Using Few-Step Diffusion\", accepted at SIGGRAPH 2025.",
+                "homepage": "http://cora-edit.github.io",
+                "id": 974799597,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-03T04:13:52Z",
+                "open_issues": 2,
+                "owner": "alimohammadiamirhossein",
+                "repo": "cora",
+                "stars": 35,
+                "topics": [
+                  "cora",
+                  "correspondence",
+                  "correspondence-aware",
+                  "diffusion",
+                  "diffusion-models",
+                  "few-step",
+                  "image-editing",
+                  "image-manipulation",
+                  "pytorch",
+                  "sdxl",
+                  "stable-diffusion",
+                  "turbo"
+                ]
+              },
+              "first_seen": "2026-11-03T19:27:35.121Z"
+            },
+            {
+              "node_type": "item",
               "title": "(NeurIPS 2022) One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations, Yiming Zhu et al. [Paper",
               "description": "KumapowerLIU/FFCLIP",
               "children": [],
@@ -3588,6 +3622,44 @@
             },
             {
               "node_type": "item",
+              "title": "(SIGGRAPH Asia 2026) SIA: Selective Image Analogy, Amir Alimohammadi et al. [Project",
+              "description": "alimohammadiamirhossein/selective-image-analogy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[SIGGRAPH Asia 2026] SIA: Selective Image Analogy — choose which edits from a before/after example pair to transfer to a new image. Official code, built on FLUX.2-Klein.",
+                "homepage": "https://selective-image-analogy.github.io/",
+                "id": 1430595464,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-28T07:44:59Z",
+                "open_issues": 0,
+                "owner": "alimohammadiamirhossein",
+                "repo": "selective-image-analogy",
+                "stars": 1,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "diffusion-models",
+                  "diffusion-transformer",
+                  "exemplar-based-editing",
+                  "flux",
+                  "generative-ai",
+                  "image-analogy",
+                  "image-editing",
+                  "in-context-learning",
+                  "lora",
+                  "pytorch",
+                  "siggraph-asia",
+                  "siggraph-asia-2026",
+                  "visual-analogy"
+                ]
+              },
+              "first_seen": "2026-11-03T19:27:35.121Z"
+            },
+            {
+              "node_type": "item",
               "title": "(ECCV 2022) [💬Animating Human Meshes] CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes, Kim Youwang et al. [Paper",
               "description": "Youwang-Kim/CLIP-Actor",
               "children": [],
@@ -3651,7 +3723,7 @@
                 "open_issues": 14,
                 "owner": "limuloo",
                 "repo": "MIGC",
-                "stars": 608,
+                "stars": 607,
                 "topics": [
                   "aigc",
                   "computer-vision",
@@ -4188,7 +4260,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39096,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4213,7 +4285,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6901,
+                "stars": 6902,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4641,7 +4713,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13174,
+                "stars": 13179,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4690,7 +4762,7 @@
                 "open_issues": 51,
                 "owner": "Picsart-AI-Research",
                 "repo": "Text2Video-Zero",
-                "stars": 4247,
+                "stars": 4248,
                 "topics": [
                   "video-editing",
                   "video-generation"
@@ -4850,7 +4922,7 @@
                 "open_issues": 6,
                 "owner": "YangLing0818",
                 "repo": "VideoTetris",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "diffusion-models",
                   "large-language-models",
@@ -4982,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:40:56.592Z",
+    "last_updated": "2026-11-03T19:27:35.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
@@ -4990,8 +5062,8 @@
       "id": 303611255,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-13T10:32:32Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-03T14:32:13Z",
+      "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Text-to-Image",
       "stars": 2446,
@@ -5008,7 +5080,7 @@
         "text-to-image"
       ]
     },
-    "original_repository_sha": "476e6c9a788259e751ea082b53383e52598b75e7",
+    "original_repository_sha": "3b2f2b1de5edf822bc2941a5905e274952e54173",
     "enhanced_repository": "enhansome/enhansome-Awesome-Text-to-Image",
     "enhanced_repository_description": null,
     "title": "Awesome 𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓣𝓮𝔁𝓽📝-𝓽𝓸-𝓘𝓶𝓪𝓰𝓮🌇 with stars"
