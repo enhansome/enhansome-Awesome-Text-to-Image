@@ -492,7 +492,7 @@
                 "open_issues": 146,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4600,
+                "stars": 4596,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -513,7 +513,7 @@
                 "open_issues": 4,
                 "owner": "PixArt-alpha",
                 "repo": "PixArt-alpha",
-                "stars": 3315,
+                "stars": 3314,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34149,
+                "stars": 34151,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33917,
+                "stars": 33915,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -948,7 +948,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1709,
+                "stars": 1711,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1042,7 +1042,7 @@
                 "open_issues": 8,
                 "owner": "songweige",
                 "repo": "rich-text-to-image",
-                "stars": 800,
+                "stars": 799,
                 "topics": [
                   "computer-vision",
                   "diffusion-models",
@@ -1838,7 +1838,7 @@
                 "open_issues": 91,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9085,
+                "stars": 9084,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1859,7 +1859,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2789,
+                "stars": 2788,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1880,7 +1880,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2789,
+                "stars": 2788,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1901,7 +1901,7 @@
                 "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2553,
+                "stars": 2554,
                 "topics": [
                   "chinese",
                   "image-captioning",
@@ -1934,7 +1934,7 @@
                 "open_issues": 57,
                 "owner": "Alpha-VLLM",
                 "repo": "Lumina-T2X",
-                "stars": 2249,
+                "stars": 2248,
                 "topics": [
                   "aigc",
                   "diffusion",
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12285,
+                "stars": 12283,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10809,
+                "stars": 10808,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2469,7 +2469,7 @@
                 "open_issues": 12,
                 "owner": "mayuelala",
                 "repo": "FollowYourPose",
-                "stars": 1357,
+                "stars": 1356,
                 "topics": [
                   "aaai-2024",
                   "aigc",
@@ -2796,7 +2796,7 @@
                 "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 372,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -3631,8 +3631,8 @@
                 "homepage": "https://selective-image-analogy.github.io/",
                 "id": 1430595464,
                 "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-28T07:44:59Z",
+                "license": "MIT",
+                "last_commit": "2026-11-04T16:04:35Z",
                 "open_issues": 0,
                 "owner": "alimohammadiamirhossein",
                 "repo": "selective-image-analogy",
@@ -4256,11 +4256,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T23:22:33Z",
+                "last_commit": "2026-11-04T16:49:43Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39101,
+                "stars": 39112,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4285,7 +4285,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6902,
+                "stars": 6903,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4713,7 +4713,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13179,
+                "stars": 13183,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5054,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:27:35.121Z",
+    "last_updated": "2026-11-04T19:42:08.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
@@ -5066,7 +5066,7 @@
       "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Text-to-Image",
-      "stars": 2446,
+      "stars": 2445,
       "topics": [
         "awseome-list",
         "generative-adversarial-network",
