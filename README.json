@@ -317,7 +317,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 122,
+                "open_issues": 124,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2964,
@@ -492,7 +492,7 @@
                 "open_issues": 146,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4596,
+                "stars": 4595,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -513,7 +513,7 @@
                 "open_issues": 4,
                 "owner": "PixArt-alpha",
                 "repo": "PixArt-alpha",
-                "stars": 3314,
+                "stars": 3315,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33915,
+                "stars": 33916,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -846,7 +846,7 @@
                 "open_issues": 25,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
-                "stars": 3867,
+                "stars": 3866,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -867,7 +867,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2810,
+                "stars": 2811,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -1213,7 +1213,7 @@
                 "open_issues": 12,
                 "owner": "djghosh13",
                 "repo": "geneval",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1478,13 +1478,13 @@
               "description": "] [Paper (OpenReview)] [Code]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "🤗 Unofficial huggingface/diffusers-based implementation of the paper \"Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis\".",
                 "homepage": null,
                 "id": 548831364,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2023-03-29T06:20:01Z",
+                "last_commit": "2026-11-05T11:44:28Z",
                 "open_issues": 7,
                 "owner": "shunk031",
                 "repo": "training-free-structured-diffusion-guidance",
@@ -1817,7 +1817,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14185,
+                "stars": 14187,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 91,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9084,
+                "stars": 9085,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1901,7 +1901,7 @@
                 "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2554,
+                "stars": 2555,
                 "topics": [
                   "chinese",
                   "image-captioning",
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12283,
+                "stars": 12284,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10808,
+                "stars": 10809,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2750,7 +2750,7 @@
                 "open_issues": 37,
                 "owner": "open-mmlab",
                 "repo": "StyleShot",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "controllable-generation",
                   "style-transfer",
@@ -3632,7 +3632,7 @@
                 "id": 1430595464,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T16:04:35Z",
+                "last_commit": "2026-11-05T04:38:38Z",
                 "open_issues": 0,
                 "owner": "alimohammadiamirhossein",
                 "repo": "selective-image-analogy",
@@ -4256,11 +4256,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T16:49:43Z",
+                "last_commit": "2026-11-05T17:57:19Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39112,
+                "stars": 39118,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4413,7 +4413,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -4483,7 +4483,7 @@
                 "open_issues": 0,
                 "owner": "sherwinbahmani",
                 "repo": "4dfy",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4713,7 +4713,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13183,
+                "stars": 13185,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5054,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:42:08.894Z",
+    "last_updated": "2026-11-05T19:53:37.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
