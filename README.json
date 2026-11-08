@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34151,
+                "stars": 34153,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33907,
+                "stars": 33905,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1136,7 +1136,7 @@
                 "open_issues": 0,
                 "owner": "omriav",
                 "repo": "blended-latent-diffusion",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2226,7 +2226,7 @@
                 "open_issues": 3,
                 "owner": "LYL1015",
                 "repo": "JarvisArt",
-                "stars": 878,
+                "stars": 879,
                 "topics": [
                   "agent",
                   "image-processing",
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12288,
+                "stars": 12290,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4260,7 +4260,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39126,
+                "stars": 39137,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4713,7 +4713,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13187,
+                "stars": 13189,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -5054,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:43:38.279Z",
+    "last_updated": "2026-11-08T17:54:12.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
@@ -5066,7 +5066,7 @@
       "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Text-to-Image",
-      "stars": 2445,
+      "stars": 2444,
       "topics": [
         "awseome-list",
         "generative-adversarial-network",
