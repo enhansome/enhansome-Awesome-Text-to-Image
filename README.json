@@ -317,10 +317,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2969,
+                "stars": 2970,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -492,7 +492,7 @@
                 "open_issues": 146,
                 "owner": "Kwai-Kolors",
                 "repo": "Kolors",
-                "stars": 4596,
+                "stars": 4595,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -513,7 +513,7 @@
                 "open_issues": 4,
                 "owner": "PixArt-alpha",
                 "repo": "PixArt-alpha",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34155,
+                "stars": 34157,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33896,
+                "stars": 33894,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -867,7 +867,7 @@
                 "open_issues": 85,
                 "owner": "ai-forever",
                 "repo": "Kandinsky-2",
-                "stars": 2813,
+                "stars": 2814,
                 "topics": [
                   "diffusion",
                   "image-generation",
@@ -898,7 +898,7 @@
                 "open_issues": 78,
                 "owner": "gligen",
                 "repo": "GLIGEN",
-                "stars": 2221,
+                "stars": 2220,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 7,
                 "owner": "showlab",
                 "repo": "BoxDiff",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "diffusion-models",
                   "text-to-image-synthesis"
@@ -1817,7 +1817,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14187,
+                "stars": 14186,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12293,
+                "stars": 12295,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2469,7 +2469,7 @@
                 "open_issues": 12,
                 "owner": "mayuelala",
                 "repo": "FollowYourPose",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "aaai-2024",
                   "aigc",
@@ -2544,7 +2544,7 @@
                 "open_issues": 19,
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": [
                   "3d-generation",
                   "motion-generation",
@@ -4256,11 +4256,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2012,
+                "last_commit": "2026-11-13T17:37:12Z",
+                "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39161,
+                "stars": 39167,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4285,7 +4285,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6904,
+                "stars": 6903,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4601,7 +4601,7 @@
                 "open_issues": 1,
                 "owner": "zkf1997",
                 "repo": "COINS",
-                "stars": 111,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -4713,7 +4713,7 @@
                 "open_issues": 115,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13199,
+                "stars": 13200,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -4741,7 +4741,7 @@
                 "open_issues": 37,
                 "owner": "showlab",
                 "repo": "Tune-A-Video",
-                "stars": 4358,
+                "stars": 4359,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5054,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:51:44.925Z",
+    "last_updated": "2026-11-13T19:36:12.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
