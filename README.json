@@ -804,7 +804,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34162,
+                "stars": 34160,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -825,7 +825,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33882,
+                "stars": 33880,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -846,7 +846,7 @@
                 "open_issues": 25,
                 "owner": "FlagAI-Open",
                 "repo": "FlagAI",
-                "stars": 3864,
+                "stars": 3863,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -974,7 +974,7 @@
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1696,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1777,7 +1777,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4482,
+                "stars": 4481,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1817,7 +1817,7 @@
                 "open_issues": 296,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14195,
+                "stars": 14194,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 93,
                 "owner": "facebookresearch",
                 "repo": "ImageBind",
-                "stars": 9087,
+                "stars": 9085,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -1985,7 +1985,7 @@
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1696,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2188,7 +2188,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-06T07:52:49Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "NVlabs",
                 "repo": "ODISE",
                 "stars": 943,
@@ -2375,7 +2375,7 @@
                 "open_issues": 320,
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12305,
+                "stars": 12306,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10801,
+                "stars": 10799,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -2469,7 +2469,7 @@
                 "open_issues": 13,
                 "owner": "mayuelala",
                 "repo": "FollowYourPose",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "aaai-2024",
                   "aigc",
@@ -2496,7 +2496,7 @@
                 "open_issues": 5,
                 "owner": "timojl",
                 "repo": "clipseg",
-                "stars": 1338,
+                "stars": 1337,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -3191,7 +3191,7 @@
                 "open_issues": 3,
                 "owner": "optas",
                 "repo": "changeit3d",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "3d-deformations",
                   "changeit3d",
@@ -3633,10 +3633,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-26T03:10:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "alimohammadiamirhossein",
                 "repo": "selective-image-analogy",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -4257,10 +4257,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T16:02:30Z",
-                "open_issues": 2023,
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39564,
+                "stars": 39575,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4285,7 +4285,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6905,
+                "stars": 6903,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:20.370Z"
@@ -5054,7 +5054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T21:09:17.909Z",
+    "last_updated": "2026-11-28T19:56:15.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
